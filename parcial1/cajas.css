@@ -1,0 +1,19 @@
+body{
+	margin: 100px 10px;
+	padding: 100px 50px;
+	border-top: 2px solid red;
+	border-right: 4px solid pink;
+	border-bottom: 6px solid green;
+	border-left: 8px solid blue;
+}
+
+h1{
+	color: grey;
+	background: #ffc;
+	border: 1px solid red;
+	padding: 100px;
+	margin: 20px;
+}
+span{
+	background: #dff0d8;
+}
